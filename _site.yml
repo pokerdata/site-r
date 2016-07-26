@@ -1,4 +1,5 @@
 name: "PokerData"
+output_dir: "."
 navbar:
   title: "PokerData"
   left:
