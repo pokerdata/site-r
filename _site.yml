@@ -8,6 +8,8 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
+    highlight: null
+    mathjax: null
     include:
       after_body: ga.html
