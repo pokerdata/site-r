@@ -1,5 +1,4 @@
 name: "PokerData"
-output_dir: "."
 navbar:
   title: "PokerData"
   left:
@@ -10,4 +9,5 @@ navbar:
 output:
   html_document:
     theme: cosmo
-    highlight: textmate
+    include:
+      after_body: ga.html
